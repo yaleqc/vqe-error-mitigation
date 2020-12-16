@@ -3,7 +3,7 @@
 *out* 
 
 # images
-*.png
+# *.png
 *.jpg
 
 # Byte-compiled / optimized / DLL files
